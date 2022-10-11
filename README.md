@@ -23,9 +23,23 @@ Each year the OWASP community creates the 'top ten' to show which vulnarabilitie
 
 ### Dynamic Testing
 
-
-
 #### Azure Devops
 
 - [OWASP ZAP in Azure DevOps release pipelines](https://devblogs.microsoft.com/premier-developer/azure-devops-pipelines-leveraging-owasp-zap-in-the-release-pipeline/)
+
+#### GitHub Actions
+
 - [OWASP ZAP in GitHub Actions](https://github.com/marketplace/actions/owasp-zap-full-scan)
+
+## .Net Guidelines
+
+
+
+## Blogs/ sites
+
+- [OWASP](https://owasp.org/)
+- [Project Zap](https://www.zaproxy.org/blog/)
+
+## Socials
+
+- [OWASP Slack](https://owasp.org/slack/invite)
