@@ -21,10 +21,6 @@ Each year the OWASP community creates the 'top ten' to show which vulnarabilitie
 
 ### Static
 
-#### Rosslynn Analyzers
-
- - [Security Code Scan](https://www.nuget.org/packages/SecurityCodeScan.VS2019/) (postfixed by VS2019, but still works in higher versions)
-
 ### Dynamic Testing
 
 - [OWASP ZAP in Azure DevOps release pipelines](https://devblogs.microsoft.com/premier-developer/azure-devops-pipelines-leveraging-owasp-zap-in-the-release-pipeline/)
@@ -33,11 +29,16 @@ Each year the OWASP community creates the 'top ten' to show which vulnarabilitie
 
 ## .Net
 
+#### Rosslynn Analyzers
+
+ - [Security Code Scan](https://www.nuget.org/packages/SecurityCodeScan.VS2019/) (postfixed by VS2019, but still works in higher versions)
+
+
 ### Cheat sheet
 
  - [.Net Cheat sheet](https://cheatsheetseries.owasp.org/cheatsheets/DotNet_Security_Cheat_Sheet.html)
- 
-### Nuget packages
+
+### Libraries
 
  - [NWebSec](https://docs.nwebsec.com/en/latest/)
 
