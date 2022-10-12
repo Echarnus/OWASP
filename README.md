@@ -13,6 +13,10 @@ Each year the OWASP community creates the 'top ten' to show which vulnarabilitie
 
 [https://cwe.mitre.org/](https://cwe.mitre.org/)
 
+## **C**ommon **V**ulnerabilities **E**numeration
+
+[https://www.opencve.io/cve](https://www.opencve.io/cve)
+
 ## Tools
 
 ### Static
@@ -29,12 +33,15 @@ Each year the OWASP community creates the 'top ten' to show which vulnarabilitie
 
 ## .Net Guidelines
 
+ - [https://cheatsheetseries.owasp.org/cheatsheets/DotNet_Security_Cheat_Sheet.html](.Net Cheat sheet)
+ 
 
 
 ## Blogs/ sites
 
 - [OWASP](https://owasp.org/)
 - [Project Zap](https://www.zaproxy.org/blog/)
+- [securityheaders.com](https://securityheaders.com/)
 
 ## Socials
 
