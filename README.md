@@ -31,11 +31,15 @@ Each year the OWASP community creates the 'top ten' to show which vulnarabilitie
 - [OWASP ZAP in GitHub Actions](https://github.com/marketplace/actions/owasp-zap-full-scan)
 - [Dependency-Check](https://jeremylong.github.io/DependencyCheck/)
 
-## .Net Guidelines
+## .Net
+
+### Cheat sheet
 
  - [.Net Cheat sheet](https://cheatsheetseries.owasp.org/cheatsheets/DotNet_Security_Cheat_Sheet.html)
  
+### Nuget packages
 
+ - [NWebSec](https://docs.nwebsec.com/en/latest/)
 
 ## Blogs/ sites
 
