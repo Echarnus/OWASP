@@ -26,6 +26,7 @@ Each year the OWASP community creates the 'top ten' to show which vulnarabilitie
 - [OWASP ZAP in Azure DevOps release pipelines](https://devblogs.microsoft.com/premier-developer/azure-devops-pipelines-leveraging-owasp-zap-in-the-release-pipeline/)
 - [OWASP ZAP in GitHub Actions](https://github.com/marketplace/actions/owasp-zap-full-scan)
 - [Dependency-Check](https://jeremylong.github.io/DependencyCheck/)
+- [Microsoft OneFuzz](https://github.com/microsoft/onefuzz)
 
 ## .Net
 
