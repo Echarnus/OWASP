@@ -33,7 +33,7 @@ Each year the OWASP community creates the 'top ten' to show which vulnarabilitie
 
 ## .Net Guidelines
 
- - [https://cheatsheetseries.owasp.org/cheatsheets/DotNet_Security_Cheat_Sheet.html](.Net Cheat sheet)
+ - [.Net Cheat sheet](https://cheatsheetseries.owasp.org/cheatsheets/DotNet_Security_Cheat_Sheet.html)
  
 
 
