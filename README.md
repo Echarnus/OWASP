@@ -30,6 +30,11 @@ Each year the OWASP community creates the 'top ten' to show which vulnarabilitie
 
 ## .Net
 
+#### Project setup
+
+ - [Security and identity from Microsoft in .net 6](https://learn.microsoft.com/en-us/aspnet/core/security/anti-request-forgery?view=aspnetcore-6.0)
+ - [Configuring headers in .net](https://blog.elmah.io/the-asp-net-core-security-headers-guide/)
+
 #### Rosslynn Analyzers
 
  - [Security Code Scan](https://www.nuget.org/packages/SecurityCodeScan.VS2019/) (postfixed by VS2019, but still works in higher versions)
