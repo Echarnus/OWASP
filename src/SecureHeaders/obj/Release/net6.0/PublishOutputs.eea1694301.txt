@@ -1,0 +1,7 @@
+C:\Users\kenne\Projects\Tests\OWASP\SecureHeaders\obj\Docker\publish\SecureHeaders.exe
+C:\Users\kenne\Projects\Tests\OWASP\SecureHeaders\obj\Docker\publish\appsettings.Development.json
+C:\Users\kenne\Projects\Tests\OWASP\SecureHeaders\obj\Docker\publish\appsettings.json
+C:\Users\kenne\Projects\Tests\OWASP\SecureHeaders\obj\Docker\publish\SecureHeaders.dll
+C:\Users\kenne\Projects\Tests\OWASP\SecureHeaders\obj\Docker\publish\SecureHeaders.deps.json
+C:\Users\kenne\Projects\Tests\OWASP\SecureHeaders\obj\Docker\publish\SecureHeaders.runtimeconfig.json
+C:\Users\kenne\Projects\Tests\OWASP\SecureHeaders\obj\Docker\publish\SecureHeaders.pdb

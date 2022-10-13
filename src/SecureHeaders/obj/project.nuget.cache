@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aTS1lxKLrTsqfUYhJ1aVFDNMJEXY5l4KBeP/Acu3vAl9n9+z+hPc8ByMlxMcF5reqo761Vv6rpS3Hgz9+Ywv5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kenne\\Projects\\Tests\\OWASP\\SecureHeaders\\SecureHeaders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kenne\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}

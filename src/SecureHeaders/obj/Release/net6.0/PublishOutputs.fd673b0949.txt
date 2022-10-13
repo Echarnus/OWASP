@@ -1,0 +1,7 @@
+C:\Users\kenne\Projects\Tests\OWASP\SecureHeaders\obj\Release\net6.0\PubTmp\Out\SecureHeaders.exe
+C:\Users\kenne\Projects\Tests\OWASP\SecureHeaders\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\kenne\Projects\Tests\OWASP\SecureHeaders\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\kenne\Projects\Tests\OWASP\SecureHeaders\obj\Release\net6.0\PubTmp\Out\SecureHeaders.dll
+C:\Users\kenne\Projects\Tests\OWASP\SecureHeaders\obj\Release\net6.0\PubTmp\Out\SecureHeaders.deps.json
+C:\Users\kenne\Projects\Tests\OWASP\SecureHeaders\obj\Release\net6.0\PubTmp\Out\SecureHeaders.runtimeconfig.json
+C:\Users\kenne\Projects\Tests\OWASP\SecureHeaders\obj\Release\net6.0\PubTmp\Out\SecureHeaders.pdb
