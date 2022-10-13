@@ -30,6 +30,10 @@ Each year the OWASP community creates the 'top ten' to show which vulnarabilitie
 
 ## .Net
 
+#### Project setup
+
+ - [Configuring headers in .net](https://blog.elmah.io/the-asp-net-core-security-headers-guide/)
+
 #### Rosslynn Analyzers
 
  - [Security Code Scan](https://www.nuget.org/packages/SecurityCodeScan.VS2019/) (postfixed by VS2019, but still works in higher versions)
