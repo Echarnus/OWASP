@@ -32,6 +32,7 @@ Each year the OWASP community creates the 'top ten' to show which vulnarabilitie
 
 #### Project setup
 
+ - [Security and identity from Microsoft in .net 6](https://learn.microsoft.com/en-us/aspnet/core/security/anti-request-forgery?view=aspnetcore-6.0)
  - [Configuring headers in .net](https://blog.elmah.io/the-asp-net-core-security-headers-guide/)
 
 #### Rosslynn Analyzers
