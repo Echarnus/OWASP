@@ -10,16 +10,16 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- script: echo Hello, world!
-  displayName: 'Run a one-line script'
-
-- script: |
-    echo Add other tasks to build, test, and deploy your project.
-    echo See https://aka.ms/yaml
-  displayName: 'Run a multi-line script'
-
 - task: dependency-check-build-task@6
   inputs:
-    projectName: 'SecureHeaders'
-    scanPath: '**/*.csproj'
-    format: 'HTML'
+    projectName: 'Secure Headers'
+    scanPath: '**/SecureHeaders.csproj'
+    format: 'JUNIT'
+  
+- task: PublishTestResults@2
+  inputs:
+    testResultsFormat: 'JUnit'
+    testResultsFiles: 'dependency-check/*junit.xml'
+    searchFolder: '$(Common.TestResultsDirectory)'
+    failTaskOnFailedTests: true
+    testRunTitle: 'Dependency Check'
