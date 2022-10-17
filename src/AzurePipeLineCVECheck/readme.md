@@ -12,4 +12,4 @@ Add the tasks as shown in azure-pipelines.yml
 
 Test results can be shown within the job result as shown as 
 
-![TestResult](/img/TestResults.jpg)
+![TestResult](img/TestResults.jpg)
